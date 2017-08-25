@@ -1,0 +1,4 @@
+{
+	"host": "http://localhost:3000",
+	"dbURI": "mongodb://<userName>:<Password>@ds155587.mlab.com:55587/angular4_demo_db"
+}

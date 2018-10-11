@@ -1,5 +1,5 @@
 # Angular4_Small_Blog-App-NodeJS_Server
-NodeJS Server for Angular 4 small blog App
+NodeJS RestFul API Server for Angular 4 small blog App
 
 HOSTED IN AWS:
 
